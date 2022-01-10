@@ -19,5 +19,6 @@
   
  <div>
  
-  ![Snake animation](https://github.com/reineto1/reineto1/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ReiNeto1/ReiNeto1/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
