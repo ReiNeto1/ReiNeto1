@@ -11,12 +11,13 @@
 <img align="center" alt="Reinaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> Estudando C++ e C#
 
 
+<div>
+ 
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiNeto1&layout=compact&langs_count=7&theme=dracula"/>
   
   
- <div>
  
  ![Snake animation](https://github.com/ReiNeto1/ReiNeto1/blob/output/github-contribution-grid-snake.svg)
   
