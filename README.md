@@ -1,10 +1,10 @@
 # Oi me chamo Reinaldo atualmente sou estudante de TSI
 
-<img align="center" alt="reinaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><strong> Estuadndo HTML </strong>
+<img align="center" alt="Reinaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><strong> Estuadndo HTML </strong>
 
 <img align="center" alt="Reinaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Gosto muito de desafios novos no CSS
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Js Estudando
+<img align="center" alt="Reinaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Js Estudando
 
 <img align="center" alt="Reinaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudando Python
   
