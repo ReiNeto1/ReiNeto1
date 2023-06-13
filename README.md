@@ -17,7 +17,7 @@
     
 </div>
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDdQ9sdu7SfSa009iDxrr9w%3D%3D"></a> 
+<a href="https://www.linkedin.com/in/reinaldo-fernandes-19a9431ba/"></a> 
  
   ![Snake animation](https://github.com/ReiNeto1/reineto1/blob/output/github-contribution-grid-snake.svg)
  
